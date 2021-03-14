@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:#f6dbc6;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 7rem;
+  color: #9b8c7d;
+}
+
+p {
+  font-size: 2rem;
+  color: #9b8c7d;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: black;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+}
